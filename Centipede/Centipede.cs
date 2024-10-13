@@ -11,6 +11,7 @@ using System.Transactions;
 
 namespace Centipede
 {
+    //This is the centipede
     internal class Centipede : Sprite
     {
         public Vector2 speed;
